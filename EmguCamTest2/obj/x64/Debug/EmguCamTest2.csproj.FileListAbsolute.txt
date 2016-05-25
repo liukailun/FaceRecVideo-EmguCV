@@ -1,0 +1,34 @@
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2\EmguCamTest2\bin\x64\Debug\EmguCamTest2.exe.config
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2\EmguCamTest2\bin\x64\Debug\EmguCamTest2.exe
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2\EmguCamTest2\bin\x64\Debug\EmguCamTest2.pdb
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2\EmguCamTest2\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2\EmguCamTest2\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2\EmguCamTest2\bin\x64\Debug\FaceSdkManagedWrapper.dll
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2\EmguCamTest2\bin\x64\Debug\ZedGraph.dll
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2\EmguCamTest2\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2\EmguCamTest2\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2\EmguCamTest2\bin\x64\Debug\ZedGraph.xml
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2\EmguCamTest2\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2\EmguCamTest2\obj\x64\Debug\EmguCamTest2.csprojResolveAssemblyReference.cache
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2\EmguCamTest2\obj\x64\Debug\EmguCamTest2.Form1.resources
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2\EmguCamTest2\obj\x64\Debug\EmguCamTest2.Properties.Resources.resources
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2\EmguCamTest2\obj\x64\Debug\EmguCamTest2.csproj.GenerateResource.Cache
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2\EmguCamTest2\obj\x64\Debug\EmguCamTest2.exe
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2\EmguCamTest2\obj\x64\Debug\EmguCamTest2.pdb
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2 - 副本\EmguCamTest2\bin\x64\Debug\EmguCamTest2.exe.config
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2 - 副本\EmguCamTest2\obj\x64\Debug\EmguCamTest2.exe
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2 - 副本\EmguCamTest2\obj\x64\Debug\EmguCamTest2.pdb
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2 - 副本\EmguCamTest2\bin\x64\Debug\EmguCamTest2.exe
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2 - 副本\EmguCamTest2\bin\x64\Debug\EmguCamTest2.pdb
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2 - 副本\EmguCamTest2\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2 - 副本\EmguCamTest2\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2 - 副本\EmguCamTest2\bin\x64\Debug\FaceSdkManagedWrapper.dll
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2 - 副本\EmguCamTest2\bin\x64\Debug\ZedGraph.dll
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2 - 副本\EmguCamTest2\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2 - 副本\EmguCamTest2\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2 - 副本\EmguCamTest2\bin\x64\Debug\ZedGraph.xml
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2 - 副本\EmguCamTest2\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2 - 副本\EmguCamTest2\obj\x64\Debug\EmguCamTest2.csprojResolveAssemblyReference.cache
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2 - 副本\EmguCamTest2\obj\x64\Debug\EmguCamTest2.Form1.resources
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2 - 副本\EmguCamTest2\obj\x64\Debug\EmguCamTest2.Properties.Resources.resources
+C:\Users\lkl\Documents\Visual Studio 2013\Projects\EmguCamTest2 - 副本\EmguCamTest2\obj\x64\Debug\EmguCamTest2.csproj.GenerateResource.Cache
